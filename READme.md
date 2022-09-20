@@ -2,7 +2,7 @@ Booting Up...
 
 - 👋 Hi, I’m @RagnowProductions
 - 👀 I’m interested in coding,
-- 🌱 I’m currently learning to make an OS,
+- 🌱 I’m currently learning C#,
 - 💞️ I’m looking forward to collaborate with someone on making video games,
 - 📫 My Email Is 31leffnic@isd721.org
 
